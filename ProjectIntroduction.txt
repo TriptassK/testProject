@@ -22,3 +22,6 @@ Use Trello :
 A list making and task organising application.
 Made a workspace called "Triptass Workspace", with 2 boards of 
 courses INFO1113 and another study course.
+
+Student Name : Triptass Kaur
+Student ID : 100422912
