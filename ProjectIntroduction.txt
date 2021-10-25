@@ -9,6 +9,14 @@ Users will be able to build their cake at home and then pick from a
 number of cake stores and bakeries to deliver it to.
 Major goal of thw site is for users to be able to create a cake that 
 is uniquely envisioned and adorned for that once-in-a-lifetime event.
+Project Functions:
+Customizable flavors
+Plethora of new shapes and designs
+An auto-make button, to whip a random beautiful cake
+A Number of decorative items to embellish your cake
+Easy interface
+Special options for the elderly, people with allergies (sugar, lactose, peanuts, etc.)
+
 
 Use Trello :
 A list making and task organising application.
