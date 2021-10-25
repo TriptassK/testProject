@@ -1,0 +1,16 @@
+PROJECT INFO 
+
+Creating a website :
+My chosen project : Custom cakes site
+Customers will be able to customise the form, size, colour, flavour, 
+design, and other aspects of their one-of-a-kind cake using a 
+user-friendly interactive interface.
+Users will be able to build their cake at home and then pick from a
+number of cake stores and bakeries to deliver it to.
+Major goal of thw site is for users to be able to create a cake that 
+is uniquely envisioned and adorned for that once-in-a-lifetime event.
+
+Use Trello :
+A list making and task organising application.
+Made a workspace called "Triptass Workspace", with 2 boards of 
+courses INFO1113 and another study course.
